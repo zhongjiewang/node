@@ -1,4 +1,3 @@
-// 黄阳晔
 
 function timeChunk (ary, fn, count, time) {
     var obj, t;
